@@ -6,7 +6,7 @@ APP测试类型,需求分析,功能测试,场景测试,用户体验测试,接口
 
 来源于:[自动化测试开发框架My-Test-Automation-Frameworks](https://github.com/Gavinwhy/My-Test-Automation-Frameworks)
 
-[Dynalist文档框架]https://dynalist.io/d/YzlBl8FZd3Wm-42vvCJFN_gc
+Dynalist[文档框架](https://dynalist.io/d/YzlBl8FZd3Wm-42vvCJFN_gc)
 
 ## 环境部署
 
