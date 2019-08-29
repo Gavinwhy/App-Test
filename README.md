@@ -4,7 +4,7 @@
 
 APP测试类型,需求分析,功能测试,场景测试,用户体验测试,接口测试,前端性能测试,流量测试,电量测试,弱网测试,兼容性测试
 
-来源于:[自动化测试开发框架My-Test-Automation-Frameworks](https://github.com/Gavinwhy/My-Test-Automation-Frameworks)
+来源:[自动化测试开发框架My-Test-Automation-Frameworks](https://github.com/Gavinwhy/My-Test-Automation-Frameworks)
 
 Dynalist[文档框架](https://dynalist.io/d/YzlBl8FZd3Wm-42vvCJFN_gc)
 
